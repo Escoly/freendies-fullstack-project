@@ -35,7 +35,7 @@
     ]
   },
   "devDependencies": {
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "freendies_data": "../freendies_data"
   }
 }
